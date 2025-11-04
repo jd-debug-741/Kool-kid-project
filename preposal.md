@@ -2,12 +2,12 @@
 
 ## What idea(s) do you have for your final project?
 
-TODO
+The idea my partner and I had was making a first person shooter in roblox
 
 ## If you plan to collaborate with one or two classmates, what are their names?
 
-TODO
+I plan to collaborate with Tymir
 
 ## Do you have any questions of your own?
 
-TODO
+I do not
